@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+.env
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and coverage
+*.log
+coverage/
+
+# Misc
+*.tmp
