@@ -27,4 +27,23 @@ Please open issues or pull requests. Add a `LICENSE` when you decide on a licens
 
 ## License
 
-TBD
+This project is licensed under the MIT License — see `LICENSE` for details.
+
+## Setup
+
+Back-end (Node + Express):
+
+```bash
+cd backend
+npm install
+npm run dev   # or npm start
+```
+
+Front-end (Next.js + React):
+
+```bash
+cd frontend
+npm install
+npm run dev   # runs Next.js on port 3001
+```
+

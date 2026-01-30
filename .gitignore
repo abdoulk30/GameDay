@@ -27,3 +27,7 @@ coverage/
 
 # Misc
 *.tmp
+
+# Next.js
+.next/
+.next/cache/
